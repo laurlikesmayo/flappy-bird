@@ -32,3 +32,6 @@ class Bird():
         self.y = self.y + d
         win.blit(birdy, (self.x, self.y))
         
+
+
+        omg you are soo cool
